@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy<2
+pillow
+streamlit-option-menu
+pyarrow
