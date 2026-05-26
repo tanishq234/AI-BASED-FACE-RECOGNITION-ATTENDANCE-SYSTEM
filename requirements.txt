@@ -1,6 +1,6 @@
-streamlit
-opencv-python
-numpy<2
-pillow
-streamlit-option-menu
-pyarrow
+streamlit>=1.28.0
+opencv-python-headless>=4.8.0
+numpy>=1.24,<2
+pillow>=9.0.0
+streamlit-option-menu>=0.3.0
+pyarrow>=12.0.0
